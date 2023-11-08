@@ -7,5 +7,5 @@ set +x
 
 
 echo 'Now...'
-echo 'Visit http://192.168.21.141 to see your PHP application in action.'
+echo 'Visit http://localhost to see your PHP application in action.'
 
